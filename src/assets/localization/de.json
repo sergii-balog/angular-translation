@@ -1,0 +1,9 @@
+{
+  "app.showFooter": "Fußzeile anzeigen",
+  "app.title": "Transloco Beispiel",
+  "first.title": "Erste Komponente",
+  "first.content": "Dies ist der Inhalt der ersten Komponente. Das Leben ist großartig!",
+  "second.title": "Zweite Komponente",
+  "second.content": "Dies ist der Inhalt der zweiten Komponente. Die Schaltfläche wurde {{count}} Mal gedrückt",
+  "first.button": "Klick mich"
+}

@@ -1,0 +1,6 @@
+<div class="card" style="width: 18rem;">
+  <div class="card-body" *transloco="let translate; read:'second'">
+    <h5 class="card-title">{{ translate('title')}}</h5>
+    <p class="card-text">{{ translate('content', {count: service.counter})}}</p>
+  </div>
+</div>

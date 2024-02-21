@@ -1,0 +1,9 @@
+{
+  "app.showFooter": "Mostrar pie de página",
+  "app.title": "Ejemplo de Transloco",
+  "first.title": "Primer Componente",
+  "first.content": "Este es el contenido del primer componente. ¡La vida es genial!",
+  "second.title": "Segundo Componente",
+  "second.content": "Este es el contenido del segundo componente. Botón presionado: {{count}} veces",
+  "first.button": "Haz clic en mí"
+}

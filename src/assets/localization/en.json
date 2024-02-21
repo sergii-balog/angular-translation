@@ -1,0 +1,9 @@
+{
+  "app.showFooter": "Show footer",
+  "app.title": "Transloco Example",
+  "first.title": "First Component",
+  "first.content": "This is content of the first component. The life is great!",
+  "second.title": "Second Component",
+  "second.content": "This is content of the second component. Button pressed: {{count}} times",
+  "first.button": "Click me"
+}

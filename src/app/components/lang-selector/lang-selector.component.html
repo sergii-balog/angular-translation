@@ -1,0 +1,5 @@
+<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+  <button type="button" class="btn btn-outline-{{langString(lang)==='en'?'primary':langString(lang)==='es'?'secondary':'info'}}" *ngFor="let lang of availableLangs" (click)="changeLang(lang)">
+    {{langString(lang)}}
+  </button>
+</div>
